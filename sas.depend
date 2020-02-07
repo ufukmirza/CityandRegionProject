@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1577465766 source:c:\users\ufukm\onedrive\masaüstü\sas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1577615089 source:c:\users\ufukm\onedrive\masaüstü\prolab_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
